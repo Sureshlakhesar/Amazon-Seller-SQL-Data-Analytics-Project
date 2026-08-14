@@ -1,6 +1,6 @@
-# 🛒 Amazon Seller SQL Data Analytics Project
+# Amazon Seller SQL Data Analytics Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes an **Amazon Seller e-commerce dataset containing 1,000 orders** using **SQL (SQLite)** to identify sales trends, customer behavior, product performance, payment preferences, and operational insights.
 
@@ -8,7 +8,7 @@ The project demonstrates an end-to-end **Data Analyst workflow** — from queryi
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 * Identify top-performing product categories and products
 * Analyze revenue and order performance
@@ -21,7 +21,7 @@ The project demonstrates an end-to-end **Data Analyst workflow** — from queryi
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The dataset contains **1,000 e-commerce transactions** with fields including:
 
@@ -45,7 +45,7 @@ The dataset contains **1,000 e-commerce transactions** with fields including:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **SQL**
 * **SQLite**
@@ -76,7 +76,7 @@ Ranking
 
 ---
 
-## 🔍 Key SQL Analysis
+## Key SQL Analysis
 
 ### 1. Top Discounted Products
 
@@ -135,9 +135,9 @@ ORDER BY payment_count DESC;
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 
-### 🥇 Electronics Performance
+### Electronics Performance
 
 Electronics is the strongest revenue-generating category in the dataset. This indicates an opportunity to:
 
@@ -146,7 +146,7 @@ Electronics is the strongest revenue-generating category in the dataset. This in
 * Promote high-performing electronics
 * Analyze product-level demand
 
-### 📍 Customer Geography
+### Customer Geography
 
 Cities such as **Mumbai, Pune, Kolkata, Hyderabad and Delhi** provide valuable opportunities for customer and revenue analysis.
 
@@ -157,13 +157,13 @@ Businesses can use city-level performance to optimize:
 * Delivery capacity
 * Regional promotions
 
-### 💳 Payment Behavior
+### Payment Behavior
 
 **UPI** is the most frequently used payment method in the dataset.
 
 This suggests that maintaining a fast and convenient UPI checkout experience can support customer conversion.
 
-### 📦 Order Quantity
+### Order Quantity
 
 Orders with quantity greater than 2 can be analyzed to identify:
 
@@ -172,7 +172,7 @@ Orders with quantity greater than 2 can be analyzed to identify:
 * Potential bundle opportunities
 * Customer segments with higher purchase volume
 
-### 🔄 Order Operations
+### Order Operations
 
 Returned and cancelled orders should be investigated by:
 
@@ -186,7 +186,7 @@ This can help identify operational problems and improve customer experience.
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Prioritize Electronics**
    Focus inventory and marketing efforts on high-performing electronics products.
@@ -205,7 +205,7 @@ This can help identify operational problems and improve customer experience.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 amazon-seller-sql-analysis/
@@ -227,7 +227,7 @@ amazon-seller-sql-analysis/
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 * SQL Data Analysis
 * Data Cleaning & Validation
@@ -242,7 +242,7 @@ amazon-seller-sql-analysis/
 
 ---
 
-## 👨‍💻 Portfolio Project
+## Portfolio Project
 
 **Project:** Amazon Seller SQL Data Analytics
 **Role:** Data Analyst
@@ -256,12 +256,10 @@ amazon-seller-sql-analysis/
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates how SQL can be used to transform raw e-commerce transaction data into **actionable business insights**.
 
 The analysis follows a practical Data Analyst workflow:
 
 **Raw Data → SQL Queries → Analysis → Insights → Business Recommendations**
-
-If you find this project useful, ⭐ **Star this repository**.
